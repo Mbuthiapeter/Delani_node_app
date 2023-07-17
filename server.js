@@ -8,7 +8,9 @@ let start = function(){
     }
     http.createServer(onRequest).listen(8000);
     console.log("Server has started.")
+
 }
+exports.start = start;
 
 
    
