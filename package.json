@@ -1,0 +1,24 @@
+{
+  "name": "delani_node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "13.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnygovish/delani_node_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnygovish/delani_node_app/issues"
+  },
+  "homepage": "https://github.com/jonnygovish/delani_node_app#readme"
+}
